@@ -17,8 +17,6 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.05.17) Efficient Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/abs/2405.10739) [Code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) 
 
-(Arxiv24.02.19) The (R)Evolution of Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) 
-
 ## Video Understanding
 
 (Arxiv23.09.01) HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving [Paper](https://arxiv.org/abs/2309.05186) 
