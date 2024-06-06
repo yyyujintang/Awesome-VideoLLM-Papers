@@ -17,7 +17,7 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.05.17) Efficient Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/abs/2405.10739) [Code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) 
 
-## Video Understanding
+## MLLM-VLM-VideoLLM
 
 (Arxiv23.09.01) HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving [Paper](https://arxiv.org/abs/2309.05186) 
 
@@ -48,6 +48,8 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 (Arxiv24.05.13) FreeVA: Offline MLLM as Training-Free Video Assistant [Paper](https://arxiv.org/abs/2405.07798) 
 
 (Arxiv24.05.31) Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [Paper](https://arxiv.org/abs/2405.21075) 
+
+(Arxiv24.06.03) SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model [Paper](https://arxiv.org/abs/2406.01584) 
 
 ## Other Useful Sources
 
