@@ -3,7 +3,7 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 ## Survey
 
-(Arxiv23.06.23) A Survey on Multimodal Large Language Models [Paper](https://arxiv.org/abs/2306.13549) [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) 
+(Arxiv23.06.23) A Survey on Multimodal Large Language Models [Paper](https://arxiv.org/abs/2306.13549) [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 (Arxiv23.11.10) How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model [Paper](https://arxiv.org/abs/2311.07594)
 
@@ -11,11 +11,13 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.01.10) Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning [Paper](https://arxiv.org/abs/2401.06805) 
 
-(Arxiv24.02.01) Safety of Multimodal Large Language Models on Images and Text [Paper](https://arxiv.org/abs/2402.00357) [Code](https://github.com/isXinLiu/MLLM-Safety-Collection) 
+(Arxiv24.02.01) Safety of Multimodal Large Language Models on Images and Text [Paper](https://arxiv.org/abs/2402.00357) [Code](https://github.com/isXinLiu/MLLM-Safety-Collection) ![Stars](https://img.shields.io/github/stars/isXinLiu/MLLM-Safety-Collection)
 
 (Arxiv24.02.19) The (R)Evolution of Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/abs/2402.12451) 
 
-(Arxiv24.05.17) Efficient Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/abs/2405.10739) [Code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) 
+(Arxiv24.05.17) Efficient Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/abs/2405.10739) [Code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) ![Stars](https://img.shields.io/github/stars/lijiannuist/Efficient-Multimodal-LLMs-Survey)
+
+(Arxiv24.05.29) LLMs Meet Multimodal Generation and Editing: A Survey [Paper](https://arxiv.org/abs/2405.19334) [Code](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
 
 ## MLLM-VLM-VideoLLM
 
@@ -47,9 +49,19 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.05.13) FreeVA: Offline MLLM as Training-Free Video Assistant [Paper](https://arxiv.org/abs/2405.07798) 
 
+(Arxiv24.05.29) VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos [Paper](https://arxiv.org/abs/2405.19209) 
+
+(Arxiv24.05.30) MotionLLM: Understanding Human Behaviors from Human Motions and Videos [Paper](https://arxiv.org/abs/2405.20340) 
+
 (Arxiv24.05.31) Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [Paper](https://arxiv.org/abs/2405.21075) 
 
+(Arxiv24.05.31) ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos [Paper](https://arxiv.org/abs/2405.20628) 
+
 (Arxiv24.06.03) SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model [Paper](https://arxiv.org/abs/2406.01584) 
+
+(**Arxiv24.06.05, ICML24**) Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models [Paper](https://arxiv.org/abs/2406.02915) [Code](https://github.com/tmlr-group/WCA) ![Stars](https://img.shields.io/github/stars/tmlr-group/WCA)
+
+(Arxiv24.06.06) MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding [Paper](https://arxiv.org/abs/2406.04264) 
 
 ## Other Useful Sources
 
