@@ -63,6 +63,8 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.06.06) MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding [Paper](https://arxiv.org/abs/2406.04264) 
 
+(Arxiv24.06.10) Vript: A Video Is Worth Thousands of Words [Paper](https://arxiv.org/abs/2406.06040) [Code](https://github.com/mutonix/Vript) ![Stars](https://img.shields.io/github/stars/mutonix/Vript)
+
 ## Other Useful Sources
 
 [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
