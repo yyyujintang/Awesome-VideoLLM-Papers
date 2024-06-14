@@ -19,9 +19,29 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.05.29) LLMs Meet Multimodal Generation and Editing: A Survey [Paper](https://arxiv.org/abs/2405.19334) [Code](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
 
-## MLLM-VLM-VideoLLM
+## VLM
+
+## MLLM
 
 (Arxiv23.09.01) HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving [Paper](https://arxiv.org/abs/2309.05186) 
+
+(Arxiv24.01.18) Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models [Paper](https://arxiv.org/abs/2309.05186) 
+
+(Arxiv24.01.26) From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities [Paper](https://arxiv.org/abs/2401.15071) 
+
+(Arxiv24.03.25) Elysium: Exploring Object-level Perception in Videos via MLLM [Paper](https://arxiv.org/abs/2403.16558) 
+
+(Arxiv24.04.28) WorldGPT: Empowering LLM as Multimodal World Model [Paper](https://arxiv.org/abs/2404.18202) 
+
+(Arxiv24.05.01) EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model [Paper](https://arxiv.org/abs/2405.00574) 
+
+(Arxiv24.05.31) ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos [Paper](https://arxiv.org/abs/2405.20628) 
+
+(Arxiv24.06.03) SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model [Paper](https://arxiv.org/abs/2406.01584) 
+
+(**Arxiv24.06.05, ICML24**) Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models [Paper](https://arxiv.org/abs/2406.02915) [Code](https://github.com/tmlr-group/WCA) ![Stars](https://img.shields.io/github/stars/tmlr-group/WCA)
+
+## VideoLLM
 
 (Arxiv23.10.02) DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model [Paper](https://arxiv.org/abs/2310.01412) 
 
@@ -33,19 +53,9 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.01.02) Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models [Paper](https://arxiv.org/abs/2401.00988) 
 
-(Arxiv24.01.18) Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models [Paper](https://arxiv.org/abs/2309.05186) 
-
-(Arxiv24.01.26) From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities [Paper](https://arxiv.org/abs/2401.15071) 
-
-(Arxiv24.03.25) Elysium: Exploring Object-level Perception in Videos via MLLM [Paper](https://arxiv.org/abs/2403.16558) 
-
 (Arxiv24.04.18) From Image to Video, what do we need in multimodal LLMs? [Paper](https://arxiv.org/abs/2404.11865) 
 
 (Arxiv24.04.25) Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model [Paper](https://arxiv.org/abs/2404.16305) 
-
-(Arxiv24.04.28) WorldGPT: Empowering LLM as Multimodal World Model [Paper](https://arxiv.org/abs/2404.18202) 
-
-(Arxiv24.05.01) EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model [Paper](https://arxiv.org/abs/2405.00574) 
 
 (Arxiv24.05.13) FreeVA: Offline MLLM as Training-Free Video Assistant [Paper](https://arxiv.org/abs/2405.07798) 
 
@@ -55,15 +65,11 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (Arxiv24.05.31) Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [Paper](https://arxiv.org/abs/2405.21075) 
 
-(Arxiv24.05.31) ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos [Paper](https://arxiv.org/abs/2405.20628) 
-
-(Arxiv24.06.03) SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model [Paper](https://arxiv.org/abs/2406.01584) 
-
-(**Arxiv24.06.05, ICML24**) Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models [Paper](https://arxiv.org/abs/2406.02915) [Code](https://github.com/tmlr-group/WCA) ![Stars](https://img.shields.io/github/stars/tmlr-group/WCA)
-
 (Arxiv24.06.06) MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding [Paper](https://arxiv.org/abs/2406.04264) 
 
 (Arxiv24.06.10) Vript: A Video Is Worth Thousands of Words [Paper](https://arxiv.org/abs/2406.06040) [Code](https://github.com/mutonix/Vript) ![Stars](https://img.shields.io/github/stars/mutonix/Vript)
+
+(Arxiv24.06.11) VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs [Paper](https://arxiv.org/abs/2406.07476) 
 
 ## Other Useful Sources
 
