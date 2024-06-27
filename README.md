@@ -41,6 +41,8 @@ This repository compiles a list of papers related to Video LLM.  Continual impro
 
 (**Arxiv24.06.05, ICML24**) Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models [Paper](https://arxiv.org/abs/2406.02915) [Code](https://github.com/tmlr-group/WCA) ![Stars](https://img.shields.io/github/stars/tmlr-group/WCA)
 
+(Arxiv24.06.24) Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs [Paper](https://arxiv.org/abs/2406.16860) 
+
 ## VideoLLM
 
 (Arxiv23.10.02) DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model [Paper](https://arxiv.org/abs/2310.01412) 
